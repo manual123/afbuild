@@ -1,5 +1,5 @@
 FROM centos:7
-LABEL maintainer="jmccarvilleschueths@infoscitex.com"
+LABEL maintainer="manual123@gmail.com"
 
 # Set locale data for sphinx documentation
 ENV LANG=en_US.UTF-8 LANGUAGE=en_US:en LC_ALL=en_US.UTF-8
